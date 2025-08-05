@@ -1,0 +1,37 @@
+body {
+  font-family: sans-serif;
+  direction: rtl;
+  background: #f3f3f3;
+  padding: 30px;
+}
+
+form {
+  margin-bottom: 20px;
+}
+
+input {
+  padding: 10px;
+  width: 200px;
+  margin-left: 10px;
+}
+
+button {
+  padding: 10px;
+  margin-right: 5px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+.todo-item {
+  background: white;
+  margin-bottom: 10px;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.todo-item button {
+  margin-right: 10px;
+}
